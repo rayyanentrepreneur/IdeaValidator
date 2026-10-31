@@ -1,0 +1,6 @@
+{
+  "name": "IdeaValidator",
+  "description": "Minimalist, professional SaaS validation platform for founders and product strategists to test startup ideas, track empirical evidence, and model strategic bets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
